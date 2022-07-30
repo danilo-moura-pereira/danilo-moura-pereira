@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/danilo-moura-pereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-moura-pereira&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="right" height="120px" width="120px" style="border:4px solid #1b6b6f; padding:3.7px; border-radius:50%; box-sizing: border-box; margin: 0px;" src="https://github.com/danilo-moura-pereira.png">
+  <img align="right" height="173px" width="219px" style="max-width:100px; max-height:150px; width: auto; height: auto;border:4px solid #1b6b6f; padding:3.7px; border-radius:50%; box-sizing: border-box; margin: 0px;" src="https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/main/I-love_JAVA.png">
 </div>
   
   ##
