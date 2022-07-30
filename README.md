@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello everyone! What's up?✌️
 
 <!--
 **danilo-moura-pereira/danilo-moura-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ...
+- 💪 I’m currently learning ...
 - ⚡ Fun fact: ...
+- 📩 How to contact me: danilo.mourapereira@gmail.com
 
-## Hello everyone! What's up? 
 <div align="center">
   <a href="https://github.com/danilo-moura-pereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_rank=true"/>
