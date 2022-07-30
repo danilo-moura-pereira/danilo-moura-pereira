@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m stick to TypeScript, ReactJS, AngularJS, React Native, Node JS/Next.JS and more...
 - 💪 Working hard: I'm a backend developer with 20+ years experiences with Java, but 5 years had been enough for put me out of date with these bunch of new techs. I'm comming back guys! Wait up!😂
-- 📩 How to contact me: danilo.mourapereira@gmail.com (see my profile)
+- 📩 How to contact me: danilo.mourapereira@gmail.com
 <div style="display: inline_block">
   <a href="https://github.com/danilo-moura-pereira">
   <img align="right" height="180em" width="29%" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_rank=true"/>
