@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <div style="display: inline_block">
     <a href="https://github.com/danilo-moura-pereira">
     <img align="right" height="180em" width="30%" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_rank=true"/>
-    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-moura-pereira&layout=compact&langs_count=7&theme=codeSTACKr"/>
+    <img height="180em" width="68%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-moura-pereira&layout=compact&langs_count=7&theme=codeSTACKr"/>
   </div>
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
