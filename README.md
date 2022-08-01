@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   
   <!-- Funny image -->
-  <img align="right" height="121px" width="153px" style="max-width:100px; max-height:150px; width: auto; height: auto;border:4px solid #1b6b6f; padding:3.7px; border-radius:50%; box-sizing: border-box; margin: 0px;" src="https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/main/I-love_JAVA.png">
+  <img align="right" height="102px" width="123px" style="max-width:100px; max-height:150px; width: auto; height: auto;border:4px solid #1b6b6f; padding:3.7px; border-radius:50%; box-sizing: border-box; margin: 0px;" src="https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/main/I-love_JAVA.png">
 </div>
 
 <!-- Horizontal rule -->
