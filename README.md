@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Techs icons and Funny image-->
-<div style="display: inline-block"><br>
+<div style="display: inline_block">
+<br>
   <!-- Techs icons -->
   <a href="https://www.java.com/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></a>
   <a href="https://html5.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5" /></a>
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
   <a href="https://www.iso.org/standard/74528.html" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" /></a>
   <a href="https://isocpp.org/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" /></a>
   <a href="https://www.internetsociety.org/iot/" target="_blank"><img align="center" height="30" width="30" src="images/iot_icon.png" title="IoT" /></a>
-  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/" target="_blank"><img style="padding: 0px 50px 0px 50px;" align="center" height="30" width="30" src="images/espressif_icon.png" title="ESP IDF" /></a>
+  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/" target="_blank"><img style="padding: 0px 50px 0px 50px;" height="30" width="30" src="images/espressif_icon.png" title="ESP IDF" /></a>
           
   <!-- Funny image -->
   <img align="right" height="102px" width="123px" style="max-width:100px; max-height:150px; width: auto; height: auto; border:4px solid #1b6b6f; padding:3.7px; border-radius:50%; box-sizing: border-box; margin: 0px;" src="https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/main/images/I-love_JAVA.png">
