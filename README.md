@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <!-- Techs icons -->
   <a href="https://www.java.com/" target="_blank"><img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></a>
   <a href="https://html5.org/" target="_blank"><img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5" /></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Java Script" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" /></a>
