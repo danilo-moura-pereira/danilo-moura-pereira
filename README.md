@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- Techs icons and Funny image-->
 <div style="display: inline_block"><br>
   <!-- Techs icons -->
-  <a href="https://www.java.com/" target="_blank"><img stype="margin: 0px 10px 0px 10px;" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></a>
+  <a href="https://www.java.com/" target="_blank"><img stype="margin: 0px 20px 0px 0px;" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></a>
   <a href="https://html5.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5" /></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Java Script" /></a>
