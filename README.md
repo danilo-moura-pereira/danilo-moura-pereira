@@ -37,8 +37,8 @@ Here are some ideas to get you started:
   <a href="https://www.javascript.com/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Java Script" /></a>
   <a href="https://www.iso.org/standard/74528.html" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" /></a>
   <a href="https://isocpp.org/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" /></a>
-  <a href="https://www.internetsociety.org/iot/" target="_blank"><img align="center" height="30" width="30" src="images/iot_icon.png" title="IoT" /></a>
-  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/" target="_blank"><img align="center" height="30" width="30" src="images/espressif_icon.png" title="ESP IDF" /></a>
+  <a href="https://www.internetsociety.org/iot/" target="_blank"><img align="center" height="30" width="40" src="images/iot_icon.png" title="IoT" /></a>
+  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/" target="_blank"><img align="center" height="30" width="40" src="images/espressif_icon.png" title="ESP IDF" /></a>
 <!--  
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" /></a>
