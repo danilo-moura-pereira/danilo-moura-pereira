@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 <!-- Techs icons and Funny image-->
 <div style="display: inline_block"><br>
   <!-- Techs icons -->
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Java Script" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.JS" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="40" width="40" src="images/iot_icon.png" title="IoT" /></a>
-  <a href="https://www.exemplo.com" target="_blank"><img align="center" height="40" width="40" src="images/espressif_icon.png" title="ESP IDF" /></a>
+  <a href="https://www.java.com/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></a>
+  <a href="https://html5.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Java Script" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" /></a>
+  <a href="https://angularjs.org/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.JS" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" /></a>
+  <a href="https://www.iso.org/standard/74528.html" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" /></a>
+  <a href="https://www.internetsociety.org/iot/" target="_blank"><img align="center" height="40" width="40" src="images/iot_icon.png" title="IoT" /></a>
+  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/" target="_blank"><img align="center" height="40" width="40" src="images/espressif_icon.png" title="ESP IDF" /></a>
           
   <!-- Funny image -->
   <img align="right" height="102px" width="123px" style="max-width:100px; max-height:150px; width: auto; height: auto;border:4px solid #1b6b6f; padding:3.7px; border-radius:50%; box-sizing: border-box; margin: 0px;" src="https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/main/images/I-love_JAVA.png">
