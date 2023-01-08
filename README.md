@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!-- Vercel panels - app and languages -->
 <div style="display: inline_block">
   <a href="https://github.com/danilo-moura-pereira">
-  <img align="right" height="180em" width="36%" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-moura-pereira&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img align="right" height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=danilo-moura-pereira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-moura-pereira&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 <!-- Techs icons and Funny image-->
