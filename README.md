@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <a href = "mailto:danilo.mourapereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://studio.youtube.com/channel/UCFmYe4NBv74m5YR3Q36JW9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/danmouraofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5577988233873?text=Click%20here%20to%20talk%20with%20me%20by%20whatsapp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5577988233873?text=Hello%20Danilo!%20I'd%20like%20to%20talk%20with%20you%20about%20<write%20the%20topic%20you%20want%20to%20talk%20about%20with%20me>" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   <!-- Commits devourer snake -->
   ![Snake animation](https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/output/github-contribution-grid-snake.svg)
