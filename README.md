@@ -63,7 +63,11 @@ Here are some ideas to get you started:
 <a href="https://wa.me/5577988233873?text=Hello%20Danilo!%20I'd%20like%20to%20talk%20with%20you%20about%20<write%20the%20topic%20you%20want%20to%20talk%20about%20with%20me>" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   <!-- Commits devourer snake -->
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-  <!-- ![Snake animation](https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/output/github-contribution-grid-snake.svg) -->
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/danilo-moura-pereira/danilo-moura-pereira/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/danilo-moura-pereira/danilo-moura-pereira/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <!--
+    ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+    ![Snake animation](https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/output/github-contribution-grid-snake.svg) 
+  -->
 </div>
