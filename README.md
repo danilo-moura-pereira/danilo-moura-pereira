@@ -65,9 +65,4 @@ Here are some ideas to get you started:
   <!-- Commits devourer snake -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/danilo-moura-pereira/danilo-moura-pereira/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/danilo-moura-pereira/danilo-moura-pereira/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  <!--
-    ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-    ![Snake animation](https://github.com/danilo-moura-pereira/danilo-moura-pereira/blob/output/github-contribution-grid-snake.svg) 
-  -->
 </div>
