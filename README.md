@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Introducing messages -->
-- 🌱 I’m stick to TypeScript, ReactJS, AngularJS, React Native, Node JS/Next.JS and more...
-- 💪 Working hard: I'm a backend developer with 20+ years experiences with Java, but 5 years had been enough for put me out of date with these bunch of new techs. I'm comming back guys! Wait up!😂
+- 🌱 I’m stick to C, FreeRTOS and more...
+- 💪 Working hard: I'm a backend developer with 20+ years experiences with Java. For now I'm working hard with IoT and embedded systems.
 - 📩 How to contact me: danilo.mourapereira@gmail.com
 
 <!-- Vercel panels - app and languages -->
